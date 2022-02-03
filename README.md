@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a 16 year old boy with autism who likes programming.
-And idk again what to write about me lol
+I'm a 16 year old boy with autism who likes programming.  
+And idk again what to write about me lol  
 Just ask xd
 
 
