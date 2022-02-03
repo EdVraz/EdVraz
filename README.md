@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 
 ![](https://github.com/EdVraz/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/EdVraz/github-stats/blob/master/generated/languages.svg) 
