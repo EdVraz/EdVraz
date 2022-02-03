@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://github.com/EdVraz/github-stats/blob/master/generated/overview.svg)
