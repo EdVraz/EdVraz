@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a 16 year old boy with autism who likes programming.  
+I'm a 16 year old ~~boy~~ human being with autism who likes programming.  
 And idk again what to write about me lol  
 Just ask xd
 
 
 - 🔭 I’m a developer at [discord-interactions (also known as interactions.py)](https://github.com/interactions-py/library)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him, They/Them
 - 🌱 I’m currently learning java
 
 <!--
