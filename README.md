@@ -28,7 +28,7 @@ _______________________________________________
     
   </details>
   <details>
-    <summary>Contribution stats including everything (idk I never did that much js, I have contributed like 1 file to BTTV)</summary>
+    <summary>Contribution stats including everything (the js is just 1 small contribution to BetterTTV)</summary>
     
   ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/overview_includes_all.svg#gh-dark-mode-only)
   ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/languages_includes_all.svg#gh-dark-mode-only)
