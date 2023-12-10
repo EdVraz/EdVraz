@@ -12,30 +12,7 @@ If you need anything from me or want to talk about smth feel free to contact me 
 
 
 _______________________________________________
-<details>
-  <summary>Here's my GitHub stats:</summary>
-
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only) 
-  
-  However, those aren't my full stats. I excluded my contribution statistics for interactions-py because I do not want my contribution lines and the stars from their repository on my main visible stats.
-  If you want to see unfiltered stats click the sections below:
-  <details>
-    <summary>Contribution stats including interactions.py</summary>
-    
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/overview_includes_interactions.svg#gh-dark-mode-only)
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/languages_includes_interactions.svg#gh-dark-mode-only)
-    
-  </details>
-  <details>
-    <summary>Contribution stats including everything (the js is just 1 small contribution to BetterTTV)</summary>
-    
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/overview_includes_all.svg#gh-dark-mode-only)
-  ![github statistics](https://github.com/EdVraz/github-stats/blob/master/generated/languages_includes_all.svg#gh-dark-mode-only)
-    
-  </details>
-</details>
-
+I would have my github stats here but they bwoke so I guess no stats for now...
 _______________________________________________
 
 Have a nice day and thanks for stopping by 👋 
