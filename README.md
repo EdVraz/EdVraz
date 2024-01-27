@@ -2,7 +2,7 @@
 ![profile visits](https://komarev.com/ghpvc/?username=EdVraz&color=green)
 _______________________________________________
 
-I'm a 17 y/o Developer, studying Embedded Systems Engineering [@Albert-Ludwigs-University Freiburg](https://uni-freiburg.de/en/), currently in the first semester.
+I'm a 18 y/o Developer, studying Embedded Systems Engineering [@Albert-Ludwigs-University Freiburg](https://uni-freiburg.de/en/), currently in the first semester.
 
 Currently, I am not actively working on any specific project, but I'm helping some friends with some bots here and there or doing some other random things.
 
