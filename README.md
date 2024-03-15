@@ -8,7 +8,7 @@ Currently, I am not actively working on any specific project, but I'm helping so
 
 Pronouns: she/they
 
-If you need anything from me or want to talk about smth feel free to contact me on Discord: `EdVraz`
+If you need anything from me or want to talk about smth feel free to contact me on Discord (see below)!
 
 
 _______________________________________________
