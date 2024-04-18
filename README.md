@@ -1,5 +1,4 @@
 ## Hi there 👋
-_______________________________________________
 
 I'm a 18 y/o Developer, studying Embedded Systems Engineering [@Albert-Ludwigs-University Freiburg](https://uni-freiburg.de/en/), currently in the second semester.
 
